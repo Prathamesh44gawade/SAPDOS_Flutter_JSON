@@ -1,0 +1,15 @@
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/assets/doctors_list.json
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/drprofile.png
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/assets/images/rscreen1.png
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/jsonfile/doctors_list.json
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/jsonfile/patients.json
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

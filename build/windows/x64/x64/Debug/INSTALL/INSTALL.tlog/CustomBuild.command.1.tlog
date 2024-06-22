@@ -1,0 +1,10 @@
+^C:\USERS\PRATHAMESH\DOWNLOADS\SAPDOS_FLUTTER_JSON-MASTER\SAPDOS_FLUTTER_JSON-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\E0B246CC74AD0C050702690BDD4C352D\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

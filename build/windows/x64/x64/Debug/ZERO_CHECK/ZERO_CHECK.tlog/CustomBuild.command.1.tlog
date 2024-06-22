@@ -1,0 +1,10 @@
+^C:\USERS\PRATHAMESH\DOWNLOADS\SAPDOS_FLUTTER_JSON-MASTER\SAPDOS_FLUTTER_JSON-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\E0B246CC74AD0C050702690BDD4C352D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/windows -BC:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/PRATHAMESH/Downloads/SAPDOS_flutter_json-master/SAPDOS_flutter_json-master/build/windows/x64/sapdos.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
